@@ -79,8 +79,6 @@ python SignatureChecker.py
 
 ## 📜 License
 
-This project uses [Sysinternals Sigcheck](https://learn.microsoft.com/en-us/sysinternals/downloads/sigcheck) under Microsoft's terms of use.
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/hadesninja/SignatureChecker/blob/master/LICENSE) file for details.
+This project uses [Sysinternals Sigcheck](https://learn.microsoft.com/en-us/sysinternals/downloads/sigcheck) under Microsoft's terms of use. This project for the GUI design is licensed under the MIT License. See the [LICENSE](https://github.com/hadesninja/SignatureChecker/blob/master/LICENSE) file for details.
 
 ---
