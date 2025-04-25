@@ -47,7 +47,7 @@ pip install pyqt5 requests
 ## ▶️ Run the Application
 
 ```bash
-python sigcheck_gui.py
+python SignatureChecker.py
 ```
 
 ---
